@@ -1,0 +1,9 @@
+{
+    "message_type": "MESSAGE_TYPE",
+    "data": {
+      "emitter": "EMITTER",
+      "recept": "RECEPT",
+      "value": "VALUE"
+    }
+}
+
